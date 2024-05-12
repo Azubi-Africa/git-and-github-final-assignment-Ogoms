@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Product-Category-Prediction             |  A Product Prediction Model            | https://github.com/Ogoms/Product-Category-Prediction       |
+| 2 |  Sales-and Operations Planning Projects            |  Sales and Operation Calculator            | https://github.com/Ogoms/Sales-and-Operation-Planning-Project      |
+| 3 |  Exchange-Rate-Data-Retrieval-with-Frankfurter-API             |  Exchange Rate Comparison            | https://github.com/Ogoms/Exchange-Rate-Data-Retrieval-with-Frankfurter-API       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
